@@ -1,0 +1,39 @@
+{
+  "policy_id": "P020",
+  "ac_start_hour": 6,
+  "min_setpoint_c": 26.0,
+  "lab_close_hour": 21,
+  "mean_energy_kwh": 3886.38,
+  "saving_vs_baseline_pct": 21.33,
+  "mean_peak_kw": 120.07,
+  "mean_discomfort_person_hours": 45.18,
+  "discomfort_rate_pct": 0.356,
+  "mean_policy_violations": 4.966666666666667,
+  "mean_critical_exposure_hours": 0.0,
+  "mean_cost_idr": 5829576.45,
+  "baseline_mean_energy_kwh": 4939.93,
+  "n_feasible_policies": 37,
+  "n_policies_evaluated": 101,
+  "max_discomfort_person_hours": 60.0,
+  "baseline": {
+    "mean_energy_kwh": 4939.93,
+    "mean_discomfort_person_hours": 22.72,
+    "mean_policy_violations": 0.0,
+    "mean_critical_exposure_hours": 0.0
+  },
+  "lowest_energy_feasible": {
+    "policy_id": "P017",
+    "ac_start_hour": 6,
+    "min_setpoint_c": 26.0,
+    "lab_close_hour": 18,
+    "mean_energy_kwh": 3852.01,
+    "saving_vs_baseline_pct": 22.02,
+    "mean_peak_kw": 118.46,
+    "mean_discomfort_person_hours": 54.14,
+    "discomfort_rate_pct": 0.427,
+    "mean_policy_violations": 12.7,
+    "mean_critical_exposure_hours": 0.0,
+    "mean_cost_idr": 5778017.84
+  },
+  "reason": "Hemat 21.3% dibanding status quo, tanpa paparan ruang kritis, dan ketidaknyamanan 45.2 orang-jam/minggu (batas 60)."
+}
