@@ -1,7 +1,7 @@
 # Studi Kasus Implementasi Sesi 2
 
 Studi kasus implementasi yang disusun dari materi *Informatics Practitioner
-Lecture Series "Bridging Global Infrastructure to Address Local Challenges in
+Lecture Series "Bridging Global Infrastructure to Address Local Challenges with
 HPC"* (Program Studi Informatika, Universitas Bengkulu; narasumber Dr.
 Worawan Diaz Carballo, Thammasat University). Repo ini berisi simulasi
 berbasis agen untuk kebijakan penghematan listrik gedung kampus, pipeline
