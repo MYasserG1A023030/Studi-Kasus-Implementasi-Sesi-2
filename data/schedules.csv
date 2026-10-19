@@ -1,0 +1,138 @@
+schedule_id,room_id,day,day_name,start_hour,end_hour,occupancy_fraction,label
+K01-S00,K01,0,Senin,8,10,0.85,Kuliah
+K01-S01,K01,0,Senin,10,12,0.85,Kuliah
+K01-S02,K01,0,Senin,13,16,0.85,Kuliah
+K01-S03,K01,1,Selasa,8,10,0.85,Kuliah
+K01-S04,K01,1,Selasa,10,12,0.85,Kuliah
+K01-S05,K01,1,Selasa,13,16,0.85,Kuliah
+K01-S06,K01,2,Rabu,8,10,0.85,Kuliah
+K01-S07,K01,2,Rabu,10,12,0.85,Kuliah
+K01-S08,K01,2,Rabu,13,16,0.85,Kuliah
+K01-S09,K01,3,Kamis,8,10,0.85,Kuliah
+K01-S10,K01,3,Kamis,10,12,0.85,Kuliah
+K01-S11,K01,3,Kamis,13,16,0.85,Kuliah
+K01-S12,K01,4,Jumat,8,11,0.8,Kuliah
+K01-S13,K01,5,Sabtu,9,12,0.55,Kuliah
+K02-S00,K02,0,Senin,8,10,0.85,Kuliah
+K02-S01,K02,0,Senin,10,12,0.85,Kuliah
+K02-S02,K02,0,Senin,13,16,0.85,Kuliah
+K02-S03,K02,1,Selasa,8,10,0.85,Kuliah
+K02-S04,K02,1,Selasa,10,12,0.85,Kuliah
+K02-S05,K02,1,Selasa,13,16,0.85,Kuliah
+K02-S06,K02,2,Rabu,8,10,0.85,Kuliah
+K02-S07,K02,2,Rabu,10,12,0.85,Kuliah
+K02-S08,K02,2,Rabu,13,16,0.85,Kuliah
+K02-S09,K02,3,Kamis,8,10,0.85,Kuliah
+K02-S10,K02,3,Kamis,10,12,0.85,Kuliah
+K02-S11,K02,3,Kamis,13,16,0.85,Kuliah
+K02-S12,K02,4,Jumat,8,11,0.8,Kuliah
+K02-S13,K02,5,Sabtu,9,12,0.55,Kuliah
+K03-S00,K03,0,Senin,8,10,0.85,Kuliah
+K03-S01,K03,0,Senin,10,12,0.85,Kuliah
+K03-S02,K03,0,Senin,13,16,0.85,Kuliah
+K03-S03,K03,1,Selasa,8,10,0.85,Kuliah
+K03-S04,K03,1,Selasa,10,12,0.85,Kuliah
+K03-S05,K03,1,Selasa,13,16,0.85,Kuliah
+K03-S06,K03,2,Rabu,8,10,0.85,Kuliah
+K03-S07,K03,2,Rabu,10,12,0.85,Kuliah
+K03-S08,K03,2,Rabu,13,16,0.85,Kuliah
+K03-S09,K03,3,Kamis,8,10,0.85,Kuliah
+K03-S10,K03,3,Kamis,10,12,0.85,Kuliah
+K03-S11,K03,3,Kamis,13,16,0.85,Kuliah
+K03-S12,K03,4,Jumat,8,11,0.8,Kuliah
+K03-S13,K03,5,Sabtu,9,12,0.55,Kuliah
+K04-S00,K04,0,Senin,8,10,0.85,Kuliah
+K04-S01,K04,0,Senin,10,12,0.85,Kuliah
+K04-S02,K04,0,Senin,13,16,0.85,Kuliah
+K04-S03,K04,1,Selasa,8,10,0.85,Kuliah
+K04-S04,K04,1,Selasa,10,12,0.85,Kuliah
+K04-S05,K04,1,Selasa,13,16,0.85,Kuliah
+K04-S06,K04,2,Rabu,8,10,0.85,Kuliah
+K04-S07,K04,2,Rabu,10,12,0.85,Kuliah
+K04-S08,K04,2,Rabu,13,16,0.85,Kuliah
+K04-S09,K04,3,Kamis,8,10,0.85,Kuliah
+K04-S10,K04,3,Kamis,10,12,0.85,Kuliah
+K04-S11,K04,3,Kamis,13,16,0.85,Kuliah
+K04-S12,K04,4,Jumat,8,11,0.8,Kuliah
+K04-S13,K04,5,Sabtu,9,12,0.55,Kuliah
+K05-S00,K05,0,Senin,8,10,0.85,Kuliah
+K05-S01,K05,0,Senin,10,12,0.85,Kuliah
+K05-S02,K05,0,Senin,13,16,0.85,Kuliah
+K05-S03,K05,1,Selasa,8,10,0.85,Kuliah
+K05-S04,K05,1,Selasa,10,12,0.85,Kuliah
+K05-S05,K05,1,Selasa,13,16,0.85,Kuliah
+K05-S06,K05,2,Rabu,8,10,0.85,Kuliah
+K05-S07,K05,2,Rabu,10,12,0.85,Kuliah
+K05-S08,K05,2,Rabu,13,16,0.85,Kuliah
+K05-S09,K05,3,Kamis,8,10,0.85,Kuliah
+K05-S10,K05,3,Kamis,10,12,0.85,Kuliah
+K05-S11,K05,3,Kamis,13,16,0.85,Kuliah
+K05-S12,K05,4,Jumat,8,11,0.8,Kuliah
+K05-S13,K05,5,Sabtu,9,12,0.55,Kuliah
+L01-S00,L01,0,Senin,7,12,0.55,Lab Komputasi
+L01-S01,L01,0,Senin,13,17,0.6,Lab Komputasi
+L01-S02,L01,0,Senin,19,21,0.3,Lab Komputasi
+L01-S03,L01,1,Selasa,7,12,0.55,Lab Komputasi
+L01-S04,L01,1,Selasa,13,17,0.6,Lab Komputasi
+L01-S05,L01,1,Selasa,19,21,0.3,Lab Komputasi
+L01-S06,L01,2,Rabu,7,12,0.55,Lab Komputasi
+L01-S07,L01,2,Rabu,13,17,0.6,Lab Komputasi
+L01-S08,L01,2,Rabu,19,21,0.3,Lab Komputasi
+L01-S09,L01,3,Kamis,7,12,0.55,Lab Komputasi
+L01-S10,L01,3,Kamis,13,17,0.6,Lab Komputasi
+L01-S11,L01,3,Kamis,19,21,0.3,Lab Komputasi
+L01-S12,L01,4,Jumat,7,12,0.55,Lab Komputasi
+L01-S13,L01,4,Jumat,13,17,0.6,Lab Komputasi
+L01-S14,L01,4,Jumat,19,21,0.3,Lab Komputasi
+L01-S15,L01,5,Sabtu,9,15,0.4,Lab Komputasi Sabtu
+L02-S00,L02,0,Senin,8,12,0.6,Lab Elektronika
+L02-S01,L02,0,Senin,13,17,0.55,Lab Elektronika
+L02-S02,L02,1,Selasa,8,12,0.6,Lab Elektronika
+L02-S03,L02,1,Selasa,13,17,0.55,Lab Elektronika
+L02-S04,L02,2,Rabu,8,12,0.6,Lab Elektronika
+L02-S05,L02,2,Rabu,13,17,0.55,Lab Elektronika
+L02-S06,L02,3,Kamis,8,12,0.6,Lab Elektronika
+L02-S07,L02,3,Kamis,13,17,0.55,Lab Elektronika
+L02-S08,L02,4,Jumat,8,12,0.6,Lab Elektronika
+L02-S09,L02,4,Jumat,13,17,0.55,Lab Elektronika
+L03-S00,L03,0,Senin,7,12,0.65,Lab Biologi
+L03-S01,L03,0,Senin,13,19,0.6,Lab Biologi
+L03-S02,L03,1,Selasa,7,12,0.65,Lab Biologi
+L03-S03,L03,1,Selasa,13,19,0.6,Lab Biologi
+L03-S04,L03,2,Rabu,7,12,0.65,Lab Biologi
+L03-S05,L03,2,Rabu,13,19,0.6,Lab Biologi
+L03-S06,L03,3,Kamis,7,12,0.65,Lab Biologi
+L03-S07,L03,3,Kamis,13,19,0.6,Lab Biologi
+L03-S08,L03,4,Jumat,7,12,0.65,Lab Biologi
+L03-S09,L03,4,Jumat,13,19,0.6,Lab Biologi
+L04-S00,L04,0,Senin,8,12,0.6,Lab Kimia
+L04-S01,L04,0,Senin,13,16,0.5,Lab Kimia
+L04-S02,L04,1,Selasa,8,12,0.6,Lab Kimia
+L04-S03,L04,1,Selasa,13,16,0.5,Lab Kimia
+L04-S04,L04,2,Rabu,8,12,0.6,Lab Kimia
+L04-S05,L04,2,Rabu,13,16,0.5,Lab Kimia
+L04-S06,L04,3,Kamis,8,12,0.6,Lab Kimia
+L04-S07,L04,3,Kamis,13,16,0.5,Lab Kimia
+L04-S04,L04,4,Jumat,8,11,0.5,Lab Kimia Jumat
+P01-S00,P01,0,Senin,8,21,0.35,Perpustakaan
+P01-S01,P01,1,Selasa,8,21,0.35,Perpustakaan
+P01-S02,P01,2,Rabu,8,21,0.35,Perpustakaan
+P01-S03,P01,3,Kamis,8,21,0.35,Perpustakaan
+P01-S04,P01,4,Jumat,8,21,0.35,Perpustakaan
+P01-S05,P01,5,Sabtu,9,16,0.3,Perpustakaan Sabtu
+P02-S00,P02,0,Senin,8,18,0.28,Perpustakaan
+P02-S01,P02,1,Selasa,8,18,0.28,Perpustakaan
+P02-S02,P02,2,Rabu,8,18,0.28,Perpustakaan
+P02-S03,P02,3,Kamis,8,18,0.28,Perpustakaan
+P02-S04,P02,4,Jumat,8,18,0.28,Perpustakaan
+P02-S05,P02,5,Sabtu,9,14,0.25,Perpustakaan Sabtu
+D01-S00,D01,0,Senin,8,17,0.55,Dosen
+D01-S01,D01,1,Selasa,8,17,0.55,Dosen
+D01-S02,D01,2,Rabu,8,17,0.55,Dosen
+D01-S03,D01,3,Kamis,8,17,0.55,Dosen
+D01-S04,D01,4,Jumat,8,17,0.55,Dosen
+D02-S00,D02,0,Senin,9,17,0.45,Diskusi
+D02-S01,D02,1,Selasa,9,17,0.45,Diskusi
+D02-S02,D02,2,Rabu,9,17,0.45,Diskusi
+D02-S03,D02,3,Kamis,9,17,0.45,Diskusi
+D02-S04,D02,4,Jumat,9,17,0.45,Diskusi
