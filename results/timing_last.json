@@ -4,6 +4,6 @@
   "reps": 30,
   "n_simulations": 3030,
   "n_tasks": 505,
-  "wall_time_s": 3.7602763999984745,
-  "simulations_per_s": 805.7918295583881
+  "wall_time_s": 3.840354899999511,
+  "simulations_per_s": 788.9895801037518
 }
