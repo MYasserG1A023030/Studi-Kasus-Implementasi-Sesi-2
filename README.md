@@ -130,6 +130,4 @@ Seluruh data dalam studi kasus ini adalah **data sintetis** yang dibuat oleh
 Tidak ada data nyata gedung, mahasiswa, atau laboratorium yang dipakai.
 Cuaca, jadwal, dan profil penghuni semuanya asumsi yang dinyatakan
 eksplisit di [docs/02-model-simulasi.md](docs/02-model-simulasi.md) bagian
-2.6, sehingga setiap angka bisa ditelusuri ke asumsinya. Bila jadwal kampus
-sungguhan dipakai, hapus kolom yang memuat identitas pribadi sebelum masuk ke
-repo.
+2.6, sehingga setiap angka bisa ditelusuri ke asumsinya.
